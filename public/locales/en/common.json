@@ -1,0 +1,2099 @@
+{
+  "header": {
+    "search": "Search dashboard...",
+    "notifications": "View notifications",
+    "userMenu": "Open user menu",
+    "settings": "Settings",
+    "logout": "Logout",
+    "toggleMenu": "Toggle menu"
+  },
+  "website": {
+    "home": "Home",
+    "about": "About Us",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "services": "Services",
+    "kundli": "Kundli",
+    "panshang": "Panshang",
+    "chatNow": "CHAT NOW",
+    "talkToAstrologers": "Talk to Astrologers",
+    "followUs": "Follow us on",
+    "vipKundli": "VIP Kundli",
+    "samanyeKundli": "Samanye Kundli"
+  },
+  "footer": {
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "followUs": "Follow Us",
+    "newsletter": "Newsletter",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Enter your email",
+    "allRightsReserved": "All rights reserved",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "dailyHoroscope": "Daily Horoscope",
+    "vipKundli": "VIP Kundli",
+    "samanyeKundli": "Samanye Kundli",
+    "contactInfo": "Contact Info",
+    "phone": "Phone",
+    "email": "Email",
+    "website": "Website",
+    "companyDescription": "Your trusted partner in spiritual growth and astrological guidance. Experience the ancient wisdom of Vedic astrology and sacred practices.",
+    "divineAstrologicalGuidance": "Divine Astrological Guidance",
+    "serviceNames": {
+      "pujaServices": "Puja Services",
+      "sacredBooks": "Sacred Books",
+      "gemstones": "Gemstones",
+      "rudraksha": "Rudraksha",
+      "sadhanaPrograms": "Sadhana Programs",
+      "yantras": "Yantras"
+    }
+  },
+  "language": {
+    "english": "English",
+    "hindi": "हिंदी",
+    "gujarati": "ગુજરાતી",
+    "selectLanguage": "Select Language"
+  },
+  "about": {
+    "heroTitle": "About Guruji",
+    "heroSubtitle": "Master of Vedic Astrology & Spiritual Guide",
+    "experience": "25+ Years Experience",
+    "expertAstrologers": "Expert Astrologers",
+    "authenticGuidance": "Authentic Guidance",
+    "welcomeTitle": "Welcome to Jyotish Lok",
+    "ourBelief": "Our Belief",
+    "ourBeliefText": "At Jyotish Lok, we believe that every person's life is influenced by planets, stars, and cosmic energies. That's why we provide deep and multi-dimensional analysis of your Kundli.",
+    "ourExpertTeam": "Our Expert Team",
+    "ourExpertTeamText": "Our team consists of 10 experienced astrologers, each specializing in different disciplines:",
+    "expertAcharyas": "Expert Acharyas",
+    "deepAnalysisTitle": "Deep Analysis of Your Birth Chart",
+    "weTellYou": "We Tell You:",
+    "remediesAndGuidance": "Remedies and Guidance:",
+    "specialServices": "Special Services",
+    "specialServicesSubtitle": "Comprehensive Kundli analysis and personalized guidance",
+    "samanyaKundliTitle": "Samanya Kundli Analysis",
+    "samanyaKundliText": "Complete birth chart analysis including planetary positions, dasha periods, and basic life predictions. Perfect for understanding your core personality and life path.",
+    "vipKundliTitle": "VIP Kundli Analysis",
+    "vipKundliText": "Premium personalized consultation with detailed analysis, specific remedies, and ongoing guidance. Includes priority support and follow-up sessions.",
+    "bookSamanyaKundli": "Book Samanya Kundli",
+    "bookVipService": "Book VIP Service",
+    "whyChooseOurKundliServices": "Why Choose Our Kundli Services?",
+    "supportAvailable": "24/7 Support Available",
+    "authenticAnalysis": "100% Authentic Analysis",
+    "ourExpertPanel": "Our Expert Panel",
+    "ourExpertPanelText": "At Jyotish Lok, we believe that every life is deeply influenced by cosmic energies, planets, and stars. That's why we provide a comprehensive and multi-dimensional analysis of your Kundli.",
+    "expertPanel": "Expert Panel",
+    "expertPanelText": "Our expert panel consists of 10 experienced astrologers, each specializing in different branches:",
+    "kundliAnalysis": "Kundli Analysis",
+    "kundliAnalysisText": "Through in-depth analysis, we help you understand:",
+    "guidanceAndRemedies": "Guidance & Remedies",
+    "guidanceAndRemediesText": "Additionally, we guide you on:",
+    "areasOfExpertise": "Areas of Expertise",
+    "areasOfExpertiseText": "Guruji specializes in various branches of astrology and spiritual sciences, providing comprehensive guidance for all aspects of life.",
+    "educationAndCredentials": "Education & Credentials",
+    "whatOurClientsSay": "What Our Clients Say",
+    "whatOurClientsSaySubtitle": "Real experiences from thousands of satisfied clients",
+    "readyToTransformYourLife": "Ready to Transform Your Life?",
+    "readyToTransformSubtitle": "Get personalized guidance from Guruji and discover your true potential",
+    "bookConsultation": "Book Consultation",
+    "callNow": "Call Now: +91 9773380099",
+    "happyClients": "Happy Clients",
+    "yearsExperience": "Years Experience",
+    "awardsWon": "Awards Won",
+    "clientRating": "Client Rating",
+    "specializations": {
+      "vedicAstrology": "Vedic Astrology",
+      "kundliAnalysis": "Kundli Analysis",
+      "matchMaking": "Match Making",
+      "vastuShastra": "Vastu Shastra",
+      "numerology": "Numerology",
+      "palmistry": "Palmistry",
+      "faceReading": "Face Reading",
+      "careerGuidance": "Career Guidance"
+    },
+    "testimonials": {
+      "priyaSharma": {
+        "name": "Priya Sharma",
+        "location": "Mumbai",
+        "text": "Guruji's predictions were amazingly accurate. His guidance helped me find the right life partner and career path. Highly recommended!"
+      },
+      "rajeshKumar": {
+        "name": "Rajesh Kumar",
+        "location": "Delhi",
+        "text": "I consulted Guruji for my business decisions. His Vastu and astrological advice brought prosperity to my venture."
+      },
+      "anjaliPatel": {
+        "name": "Anjali Patel",
+        "location": "Ahmedabad",
+        "text": "The kundli matching service was excellent. Guruji explained everything in detail and helped us plan our wedding muhurat."
+      }
+    },
+    "expertTypes": {
+      "vedicAstrologySpecialists": "Vedic Astrology Specialists",
+      "palmistrySpecialists": "Palmistry Specialists",
+      "numerologyExperts": "Numerology Experts",
+      "lalKitabSpecialists": "Lal Kitab Specialists",
+      "prashnaKundliAcharyas": "Prashna Kundli Acharyas",
+      "vastuShastraConsultants": "Vastu Shastra Consultants"
+    },
+    "weTellYouItems": {
+      "mahadashaAntardasha": "Which Mahadasha and Antardasha are currently running",
+      "rajyogaActive": "When your Rajyoga will be active in life",
+      "troublesomeYogas": "Which troublesome yogas are causing obstacles",
+      "rightDirectionGuidance": "Right direction and decision guidance for the entire year"
+    },
+    "remediesAndGuidanceItems": {
+      "gemstoneRecommendation": "Which gemstone will be auspicious for you to wear",
+      "rudrakshaSelection": "Which Rudraksha will bring balance and success in life",
+      "pujaRitual": "Which puja/ritual will make your life prosperous"
+    },
+    "samanyaKundliFeatures": {
+      "basicPlanetaryAnalysis": "Basic planetary analysis",
+      "dashaAntardashaPeriods": "Dasha and antardasha periods",
+      "generalLifePredictions": "General life predictions"
+    },
+    "vipKundliFeatures": {
+      "deepPlanetaryAnalysis": "Deep planetary analysis",
+      "personalizedRemedies": "Personalized remedies & gemstones",
+      "priorityConsultation": "Priority consultation & support"
+    },
+    "whyChooseOurKundliServicesItems": {
+      "yearsExperience": "25+ Years Experience"
+    },
+    "kundliAnalysisItems": {
+      "mahaDashaAntarDasha": "Your Maha Dasha and Antar Dasha",
+      "rajyogaManifest": "When your Rajyoga will manifest",
+      "maleficYogas": "Malefic yogas causing obstacles",
+      "yearRoundGuidance": "Year-round guidance for all life aspects"
+    },
+    "guidanceAndRemediesItems": {
+      "perfectGemstoneRecommendations": "Perfect gemstone recommendations",
+      "beneficialRudrakshaSelection": "Beneficial Rudraksha selection",
+      "effectivePujasRituals": "Effective pujas and rituals"
+    },
+    "educationCredentials": {
+      "mastersAstrology": "Masters in Astrology - Banaras Hindu University",
+      "certifiedVastuConsultant": "Certified Vastu Consultant - Indian Vastu Institute",
+      "authorBooks": "Author of \"Vedic Astrology in Modern Times\" and \"Kundli Rahasya\"",
+      "memberFederation": "Member of All India Federation of Astrologers' Societies",
+      "magazineContributor": "Regular contributor to leading astrology magazines"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our expert astrologers",
+    "contactInfo": "Contact Information",
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send us a Message",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "subject": "Subject",
+    "inquiryType": "Inquiry Type",
+    "message": "Your Message",
+    "preferredContact": "Preferred Contact Method",
+    "submit": "Send Message",
+    "submitting": "Sending...",
+    "successMessage": "Thank you! Your message has been sent successfully.",
+    "errorMessage": "Sorry, there was an error sending your message. Please try again.",
+    "required": "This field is required",
+    "validEmail": "Please enter a valid email address",
+    "validPhone": "Please enter a valid phone number",
+    "address": "Address",
+    "phoneCall": "Phone Call",
+    "videoCall": "Video Call",
+    "whatsapp": "WhatsApp",
+    "emailContact": "Email",
+    "generalInquiry": "General Inquiry",
+    "kundliConsultation": "Kundli Consultation",
+    "pujaBooking": "Puja Booking",
+    "gemstoneGuidance": "Gemstone Guidance",
+    "vastuConsultation": "Vastu Consultation",
+    "other": "Other",
+    "howCanWeHelpYou": "How Can We Help You?",
+    "choosePreferredWay": "Choose your preferred way to connect with us",
+    "phoneConsultation": "Phone Consultation",
+    "phoneDescription": "Direct consultation with our experts",
+    "phoneValue": "+91 9773380099",
+    "phoneAction": "Call Now",
+    "phoneAvailable": "24/7 Available",
+    "videoConsultation": "Video Consultation",
+    "videoDescription": "Face-to-face consultation",
+    "videoValue": "Book Online",
+    "videoAction": "Schedule",
+    "videoAvailable": "By Appointment",
+    "emailSupport": "Email Support",
+    "emailDescription": "Detailed inquiries and support",
+    "emailValue": "info@jyotidarshan.com",
+    "emailAction": "Email Us",
+    "emailAvailable": "24-48 hrs response",
+    "sendUsMessage": "Send Us a Message",
+    "contactInformation": "Contact Information",
+    "officeAddress": "Office Address",
+    "officeLocation": "123 Astrology Street, Spiritual District, Mumbai, Maharashtra 400001",
+    "workingHours": "Working Hours",
+    "mondayFriday": "Monday - Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "hours1": "9:00 AM - 10:00 PM",
+    "hours2": "9:00 AM - 8:00 PM",
+    "hours3": "10:00 AM - 6:00 PM",
+    "quickContact": "Quick Contact",
+    "emergencySupport": "Emergency Support",
+    "emergencyDescription": "For urgent spiritual guidance",
+    "emergencyValue": "+91 9773380099",
+    "emergencyAction": "Call Now",
+    "emergencyAvailable": "24/7 Available",
+    "whatsappSupport": "WhatsApp Support",
+    "whatsappDescription": "Quick queries and support",
+    "whatsappValue": "+91 9773380099",
+    "whatsappAction": "Chat Now",
+    "whatsappAvailable": "Instant Response",
+    "socialMedia": "Follow Us",
+    "socialDescription": "Stay connected on social media",
+    "socialValue": "@jyotidarshan",
+    "socialAction": "Follow",
+    "socialAvailable": "Daily Updates",
+    "frequentlyAskedQuestions": "Frequently Asked Questions",
+    "quickAnswers": "Quick answers to common questions",
+    "responseTime": "How quickly will I receive a response?",
+    "responseTimeAnswer": "We typically respond to emails within 24 hours and phone calls/WhatsApp messages within 2-4 hours during business hours.",
+    "urgentConsultations": "Can I book urgent consultations?",
+    "urgentConsultationsAnswer": "Yes, we offer emergency consultation services 24/7. Please call us directly or use WhatsApp for urgent matters.",
+    "multipleLanguages": "Do you offer consultations in multiple languages?",
+    "multipleLanguagesAnswer": "Yes, we provide consultations in Hindi, English, and several regional languages. Please specify your preferred language when booking.",
+    "emergencyConsultations": "Emergency Consultations:",
+    "emergencyConsultationsText": "Available 24/7 for urgent matters. Additional charges may apply for after-hours consultations.",
+    "getDirections": "Get Directions",
+    "scheduleConsultation": "Schedule Consultation",
+    "liveChatSupport": "Live Chat Support",
+    "requestCallback": "Request Callback",
+    "noArticlesFound": "No articles found.",
+    "clearFilters": "Clear Filters",
+    "messageMinLength": "Message must be at least 10 characters long",
+    "nameRequired": "Name is required",
+    "subjectRequired": "Subject is required",
+    "inquiryTypeRequired": "Please select an inquiry type",
+    "emailHelp": "Enter a valid email address",
+    "phoneHelp": "Optional - Enter with or without country code",
+    "selectInquiryType": "Select inquiry type",
+    "subjectPlaceholder": "Brief description of your inquiry",
+    "preferredContactPlaceholder": "How would you like us to respond?",
+    "sms": "SMS",
+    "messageLength": "Message must be between 10 and 2000 characters",
+    "messagePlaceholder": "Please provide details about your inquiry...",
+    "characters": "characters"
+  },
+  "blog": {
+    "hero": {
+      "title": "Astrology Blog",
+      "subtitle": "🔮 Latest Insights & Expert Knowledge 🔮",
+      "description": "Discover ancient wisdom, modern insights, and expert guidance on astrology, rudraksha, gemstones and spiritual practices",
+      "features": {
+        "expertArticles": "📖 Expert Articles",
+        "vedicWisdom": "🔮 Vedic Wisdom",
+        "gemstoneGuides": "💎 Gemstone Guides",
+        "spiritualPractices": "🙏 Spiritual Practices"
+      }
+    },
+    "search": {
+      "title": "🔍 Find Your Perfect Article",
+      "subtitle": "Search and filter through our extensive collection of astrological knowledge",
+      "searchArticles": "Search Articles",
+      "searchPlaceholder": "Search by title, content, or keywords...",
+      "category": "Category",
+      "searchNow": "Search Now",
+      "quickFilters": "Quick Filters:",
+      "featuredArticles": "✨ Featured Articles",
+      "trendingNow": "🔥 Trending Now",
+      "latestPosts": "📖 Latest Posts",
+      "gemstoneGuides": "💎 Gemstone Guides"
+    },
+    "featured": {
+      "title": "✨ Featured Articles",
+      "subtitle": "Handpicked articles with the most valuable insights"
+    },
+    "allArticles": {
+      "title": "📚 All Articles",
+      "articlesFound": "{{count}} articles found"
+    },
+    "newsletter": {
+      "title": "📧 Get Latest Blog Updates",
+      "subtitle": "Subscribe to receive the latest astrology insights and tips directly in your inbox",
+      "emailPlaceholder": "Your email address...",
+      "subscribe": "Subscribe"
+    },
+    "loadMore": "Load More Articles",
+    "trending": "🔥 Trending",
+    "readMore": "Read More",
+    "noArticlesFound": "No articles found.",
+    "clearFilters": "Clear Filters"
+  },
+  "termsOfUse": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated: {{date}}",
+    "backToHome": "← Back to Home",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing and using Jyotish Lok (\"we,\" \"our,\" or \"us\"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service."
+      },
+      "servicesDescription": {
+        "title": "2. Services Description",
+        "content": "Jyotish Lok provides astrological services including but not limited to:",
+        "services": [
+          "Kundli analysis and horoscope services",
+          "Puja and spiritual consultation services",
+          "Gemstone and Rudraksha recommendations",
+          "Sacred books and spiritual materials",
+          "Yantra and Sadhana programs",
+          "Daily horoscope and astrological guidance"
+        ]
+      },
+      "userResponsibilities": {
+        "title": "3. User Responsibilities",
+        "content": "As a user of our services, you agree to:",
+        "responsibilities": [
+          "Provide accurate and truthful information",
+          "Use our services for personal and spiritual growth only",
+          "Respect the spiritual and cultural nature of our services",
+          "Not misuse or misrepresent our services",
+          "Maintain confidentiality of personal consultations"
+        ]
+      },
+      "disclaimer": {
+        "title": "4. Disclaimer",
+        "content": "Our astrological services are provided for spiritual guidance and entertainment purposes only. We do not guarantee specific outcomes or results. Astrological predictions and recommendations should not replace professional medical, legal, or financial advice. Users should exercise their own judgment and discretion in all matters."
+      },
+      "paymentRefunds": {
+        "title": "5. Payment and Refunds",
+        "content": "All services must be paid for in advance. We offer the following refund policy:",
+        "refundPolicy": [
+          "Full refund within 24 hours of booking if service hasn't commenced",
+          "Partial refund for cancelled services with 48 hours notice",
+          "No refunds for completed consultations or services",
+          "Refunds processed within 5-7 business days"
+        ]
+      },
+      "privacyConfidentiality": {
+        "title": "6. Privacy and Confidentiality",
+        "content": "We are committed to protecting your privacy and maintaining the confidentiality of all personal information shared during consultations. Your birth details, personal concerns, and consultation records are kept strictly confidential and are never shared with third parties without your explicit consent."
+      },
+      "intellectualProperty": {
+        "title": "7. Intellectual Property",
+        "content": "All content on this website, including text, graphics, logos, images, and software, is the property of Jyotish Lok and is protected by copyright laws. You may not reproduce, distribute, or create derivative works without our written permission."
+      },
+      "limitationLiability": {
+        "title": "8. Limitation of Liability",
+        "content": "Jyotish Lok shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services. Our total liability shall not exceed the amount paid for the specific service in question."
+      },
+      "modifications": {
+        "title": "9. Modifications to Terms",
+        "content": "We reserve the right to modify these terms at any time. Changes will be effective immediately upon posting on our website. Your continued use of our services constitutes acceptance of the modified terms."
+      },
+      "contactInformation": {
+        "title": "10. Contact Information",
+        "content": "If you have any questions about these Terms of Use, please contact us at:",
+        "email": "Email:",
+        "phone": "Phone:",
+        "website": "Website:"
+      },
+      "governingLaw": {
+        "title": "11. Governing Law",
+        "content": "These terms shall be governed by and construed in accordance with the laws of India. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of the courts in India."
+      }
+    }
+  },
+  "gallery": {
+    "heroTitle": "Media Gallery",
+    "heroSubtitle": "Sacred Videos & Images",
+    "heroDescription": "Discover our collection of spiritual and sacred media content",
+    "loading": {
+      "title": "Loading media...",
+      "description": "Please wait while we fetch your content"
+    },
+    "error": {
+      "title": "Error loading media",
+      "tryAgain": "Try Again"
+    },
+    "empty": {
+      "title": "No media found",
+      "description": "No media content available at the moment"
+    },
+    "mediaType": {
+      "video": "Video",
+      "image": "Image"
+    },
+    "videoNotSupported": "Your browser does not support the video tag."
+  },
+  "panshang": {
+    "premiumBadge": "PREMIUM PANCHANG",
+    "heroTitle": "Divine Panchang",
+    "heroDescription": "Unlock the secrets of time with our premium astrological calendar. Get precise cosmic insights for perfect timing in your life.",
+    "viewTodayPanchang": "View Today's Panchang",
+    "stats": {
+      "dailyUsers": "Daily Users",
+      "accuracy": "Accuracy",
+      "available": "Available",
+      "rating": "Rating"
+    },
+    "completeAstrologyServices": "Complete Astrology Services",
+    "servicesDescription": "Panchang, Calendar, Horoscope, Marriage Matching & Numerology - All in One Place",
+    "refreshAll": "Refresh All",
+    "share": "Share",
+    "live": "LIVE",
+    "currentLocation": "Current Location",
+    "poweredBy": "Powered by ProKerala API",
+    "tabs": {
+      "panchang": "Panchang",
+      "calendar": "Calendar",
+      "horoscope": "Horoscope",
+      "marriage": "Marriage",
+      "numerology": "Numerology"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated",
+    "backToHome": "Back to Home",
+    "sections": {
+      "introduction": {
+        "title": "Introduction",
+        "content": "At Jyotish Lok, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our astrological services, website, and related services."
+      },
+      "informationWeCollect": {
+        "title": "Information We Collect",
+        "personalInfo": {
+          "title": "Personal Information",
+          "items": {
+            "name": "Name, email address, and phone number",
+            "birthDetails": "Date, time, and place of birth (for astrological services)",
+            "payment": "Payment information and billing details",
+            "preferences": "Consultation preferences and spiritual concerns"
+          }
+        },
+        "technicalInfo": {
+          "title": "Technical Information",
+          "items": {
+            "ipAddress": "IP address and device information",
+            "browser": "Browser type and version",
+            "pagesVisited": "Pages visited and time spent on our website",
+            "cookies": "Cookies and similar tracking technologies"
+          }
+        }
+      },
+      "howWeUse": {
+        "title": "How We Use Your Information",
+        "description": "We use the collected information for the following purposes:",
+        "purposes": {
+          "consultations": "Providing astrological consultations and services",
+          "payments": "Processing payments and managing your account",
+          "communication": "Communicating with you about services and updates",
+          "improvement": "Improving our website and service quality",
+          "compliance": "Ensuring compliance with legal obligations",
+          "protection": "Protecting against fraud and unauthorized access"
+        }
+      },
+      "informationSharing": {
+        "title": "Information Sharing and Disclosure",
+        "description": "We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:",
+        "circumstances": {
+          "consent": {
+            "title": "With Your Consent",
+            "description": "When you explicitly authorize us to share your information"
+          },
+          "serviceProviders": {
+            "title": "Service Providers",
+            "description": "With trusted third-party service providers who assist us in operating our website and providing services"
+          },
+          "legalRequirements": {
+            "title": "Legal Requirements",
+            "description": "When required by law or to protect our rights and safety"
+          },
+          "businessTransfers": {
+            "title": "Business Transfers",
+            "description": "In the event of a merger, acquisition, or sale of assets"
+          }
+        }
+      },
+      "dataSecurity": {
+        "title": "Data Security",
+        "description": "We implement appropriate security measures to protect your personal information:",
+        "measures": {
+          "encryption": "Encryption of sensitive data during transmission",
+          "secureStorage": "Secure storage of personal information",
+          "assessments": "Regular security assessments and updates",
+          "limitedAccess": "Limited access to personal information by authorized personnel only",
+          "paymentProcessing": "Secure payment processing systems"
+        }
+      },
+      "dataRetention": {
+        "title": "Data Retention",
+        "content": "We retain your personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. Astrological consultation records are typically retained for 7 years to provide continuity of service."
+      },
+      "yourRights": {
+        "title": "Your Rights and Choices",
+        "description": "You have the following rights regarding your personal information:",
+        "rights": {
+          "access": {
+            "title": "Access",
+            "description": "Request access to your personal information"
+          },
+          "correction": {
+            "title": "Correction",
+            "description": "Request correction of inaccurate information"
+          },
+          "deletion": {
+            "title": "Deletion",
+            "description": "Request deletion of your personal information"
+          },
+          "portability": {
+            "title": "Portability",
+            "description": "Request transfer of your data to another service"
+          },
+          "optOut": {
+            "title": "Opt-out",
+            "description": "Unsubscribe from marketing communications"
+          },
+          "complaints": {
+            "title": "Complaints",
+            "description": "Lodge complaints with relevant authorities"
+          }
+        }
+      },
+      "cookies": {
+        "title": "Cookies and Tracking Technologies",
+        "description": "We use cookies and similar technologies to enhance your browsing experience:",
+        "types": {
+          "essential": {
+            "title": "Essential Cookies",
+            "description": "Required for basic website functionality"
+          },
+          "analytics": {
+            "title": "Analytics Cookies",
+            "description": "Help us understand how visitors use our website"
+          },
+          "preference": {
+            "title": "Preference Cookies",
+            "description": "Remember your settings and preferences"
+          },
+          "marketing": {
+            "title": "Marketing Cookies",
+            "description": "Deliver relevant content and advertisements"
+          }
+        },
+        "control": "You can control cookie settings through your browser preferences. However, disabling certain cookies may affect website functionality."
+      },
+      "thirdPartyServices": {
+        "title": "Third-Party Services",
+        "content": "Our website may contain links to third-party websites or services. We are not responsible for the privacy practices of these external sites. We encourage you to review their privacy policies before providing any personal information."
+      },
+      "childrensPrivacy": {
+        "title": "Children's Privacy",
+        "content": "Our services are not intended for children under the age of 18. We do not knowingly collect personal information from children. If you believe we have collected information from a child, please contact us immediately."
+      },
+      "internationalTransfers": {
+        "title": "International Data Transfers",
+        "content": "Your personal information may be transferred to and processed in countries other than your own. We ensure that such transfers comply with applicable data protection laws and implement appropriate safeguards to protect your information."
+      },
+      "changesToPolicy": {
+        "title": "Changes to This Privacy Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new policy on our website and updating the \"Last updated\" date. Your continued use of our services after such changes constitutes acceptance of the updated policy."
+      },
+      "contactUs": {
+        "title": "Contact Us",
+        "description": "If you have any questions about this Privacy Policy or our data practices, please contact us:",
+        "email": "Email",
+        "phone": "Phone",
+        "website": "Website",
+        "address": "Address"
+      },
+      "dataProtectionOfficer": {
+        "title": "Data Protection Officer",
+        "content": "For any privacy-related concerns or to exercise your data rights, you may also contact our Data Protection Officer at the same contact information provided above."
+      }
+    }
+  },
+  "kundli": {
+    "title": "Samanye Kundli",
+    "subtitle": "सामान्य कुंडली विश्लेषण",
+    "description": "Discover your life's blueprint with our comprehensive general kundli analysis service.",
+    "features": {
+      "planetaryPositions": {
+        "title": "Basic Planetary Positions",
+        "description": "Understand the positions of planets in your birth chart and their influence on your life."
+      },
+      "houseAnalysis": {
+        "title": "House Analysis",
+        "description": "Detailed analysis of all 12 houses and their impact on different aspects of your life."
+      },
+      "lifePathGuidance": {
+        "title": "Life Path Guidance",
+        "description": "Personalized guidance for your career, relationships, and life decisions based on your kundli."
+      },
+      "relationshipInsights": {
+        "title": "Relationship Insights",
+        "description": "Discover compatibility insights and relationship guidance based on astrological analysis."
+      }
+    },
+    "thankYou": {
+      "title": "Thank You!",
+      "message": "Your Samanye Kundli request has been submitted successfully. We'll get back to you soon!"
+    },
+    "form": {
+      "title": "Generate Your Kundli",
+      "subtitle": "Enter your birth details to get started",
+      "fields": {
+        "fullName": "Full Name",
+        "dateOfBirth": "Date of Birth",
+        "timeOfBirth": "Time of Birth",
+        "placeOfBirth": "Place of Birth",
+        "gender": "Gender",
+        "mobileNumber": "Mobile Number",
+        "kundli": "Kundli"
+      },
+      "placeholders": {
+        "fullName": "Enter your full name",
+        "placeOfBirth": "City, State, Country",
+        "gender": "Select gender",
+        "mobileNumber": "Enter your mobile number"
+      },
+      "options": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      },
+      "submit": "Submit"
+    },
+    "whatYouGet": {
+      "title": "What You'll Get",
+      "description": "Our comprehensive kundli analysis provides insights into your personality, relationships, career, and life path based on Vedic astrology principles."
+    },
+    "planetaryPositions": {
+      "title": "Planetary Positions",
+      "description": "Detailed analysis of planetary positions in your birth chart and their influence on your life."
+    },
+    "houseAnalysis": {
+      "title": "House Analysis",
+      "description": "Comprehensive understanding of all 12 houses and their significance in your life journey."
+    },
+    "lifePathGuidance": {
+      "title": "Life Path Guidance",
+      "description": "Practical guidance for career, relationships, health, and spiritual growth based on your chart."
+    },
+    "relationshipInsights": {
+      "title": "Relationship Insights",
+      "description": "Understanding of compatibility, marriage timing, and relationship dynamics through planetary analysis."
+    },
+    "planetaryInfluences": {
+      "title": "Planetary Influences",
+      "description": "Understanding the key planets and their significance in your kundli"
+    },
+    "houses": {
+      "title": "The 12 Houses",
+      "description": "Each house represents different aspects of your life journey",
+      "house1": {
+        "name": "Ascendant",
+        "element": "Fire",
+        "ruler": "Mars",
+        "significance": "Personality & Appearance"
+      },
+      "house2": {
+        "name": "Wealth",
+        "element": "Earth",
+        "ruler": "Venus",
+        "significance": "Finances & Values"
+      },
+      "house3": {
+        "name": "Communication",
+        "element": "Air",
+        "ruler": "Mercury",
+        "significance": "Siblings & Communication"
+      },
+      "house4": {
+        "name": "Home",
+        "element": "Water",
+        "ruler": "Moon",
+        "significance": "Mother & Property"
+      },
+      "house5": {
+        "name": "Creativity",
+        "element": "Fire",
+        "ruler": "Sun",
+        "significance": "Children & Intelligence"
+      },
+      "house6": {
+        "name": "Health",
+        "element": "Earth",
+        "ruler": "Mercury",
+        "significance": "Work & Health"
+      },
+      "house7": {
+        "name": "Partnership",
+        "element": "Air",
+        "ruler": "Venus",
+        "significance": "Marriage & Business"
+      },
+      "house8": {
+        "name": "Transformation",
+        "element": "Water",
+        "ruler": "Mars",
+        "significance": "Longevity & Mysteries"
+      },
+      "house9": {
+        "name": "Dharma",
+        "element": "Fire",
+        "ruler": "Jupiter",
+        "significance": "Religion & Higher Learning"
+      },
+      "house10": {
+        "name": "Career",
+        "element": "Earth",
+        "ruler": "Saturn",
+        "significance": "Profession & Status"
+      },
+      "house11": {
+        "name": "Gains",
+        "element": "Air",
+        "ruler": "Jupiter",
+        "significance": "Income & Friends"
+      },
+      "house12": {
+        "name": "Moksha",
+        "element": "Water",
+        "ruler": "Saturn",
+        "significance": "Spirituality & Losses"
+      }
+    },
+    "cta": {
+      "title": "Ready to Discover Your Destiny?",
+      "description": "Get your comprehensive kundli analysis and unlock the secrets of your birth chart",
+      "generateNow": "Generate Kundli Now",
+      "learnMore": "Learn More"
+    },
+    "contact": {
+      "title": "Need Expert Guidance?",
+      "description": "Our experienced astrologers are here to help you understand your kundli better",
+      "callUs": "Call Us",
+      "emailUs": "Email Us",
+      "chatNow": "Chat Now",
+      "liveConsultation": "Live consultation"
+    }
+  },
+  "ratna": {
+    "hero": {
+      "title": "Gemstone Collection",
+      "subtitle": "Natural & Certified Gemstones",
+      "description": "Pure natural gemstones for planetary benefits and spiritual development",
+      "features": {
+        "certified": "Certified Quality",
+        "blessed": "Blessed by Brahmins",
+        "benefits": "Planetary Benefits"
+      }
+    },
+    "search": {
+      "title": "🔍 Find Your Perfect Gemstone",
+      "subtitle": "Filter by planet, price and category",
+      "labels": {
+        "search": "Search Gemstones",
+        "category": "Category",
+        "priceRange": "Price Range",
+        "sortBy": "Sort By"
+      },
+      "placeholders": {
+        "search": "Search gemstone, planet, or benefits...",
+        "category": "Select Category",
+        "priceRange": "Select Price",
+        "sortBy": "Sort By"
+      },
+      "options": {
+        "allCategories": "All Categories"
+      },
+      "button": "Search Now",
+      "quickFilters": "Quick Filters:",
+      "tags": {
+        "popular": "Most Popular",
+        "premium": "Premium Gems",
+        "luxury": "Luxury Gems",
+        "navratna": "Navratna"
+      }
+    },
+    "collection": {
+      "title": "Available Gemstone Collection",
+      "loading": "Loading gemstones...",
+      "count": "{{count}} gemstones found",
+      "empty": "No gemstones found.",
+      "clearFilters": "Clear Filters",
+      "error": {
+        "title": "Failed to Load Gemstones",
+        "retry": "Try Again"
+      }
+    },
+    "features": {
+      "title": "Why Choose Our Gemstones?",
+      "subtitle": "Authentic and certified gemstone collection",
+      "items": {
+        "certified": {
+          "title": "Certified Quality",
+          "desc": "All gemstones are certified"
+        },
+        "natural": {
+          "title": "Natural Origin",
+          "desc": "100% pure natural gemstones"
+        },
+        "worship": {
+          "title": "Expert Worship",
+          "desc": "Mantra chanting by Brahmins"
+        },
+        "consultation": {
+          "title": "Expert Consultation",
+          "desc": "Free astrological consultation"
+        }
+      }
+    },
+    "benefits": {
+      "title": "Benefits of Gemstones",
+      "subtitle": "Natural gemstones bring positive changes to your life",
+      "items": {
+        "spiritual": {
+          "title": "Spiritual Benefits",
+          "desc": "Mental peace, meditation focus and spiritual power"
+        },
+        "wealth": {
+          "title": "Wealth & Prosperity",
+          "desc": "Business success, wealth growth and financial stability"
+        },
+        "health": {
+          "title": "Health Benefits",
+          "desc": "Physical health, mental balance and protection from negativity"
+        }
+      }
+    },
+    "cta": {
+      "title": "Enhance Your Life with Gemstones",
+      "subtitle": "Get authentic gemstones for planetary benefits",
+      "consult": "Consult Astrologer",
+      "call": "Call: +91 9773380099"
+    },
+    "checkout": {
+      "title": "Checkout",
+      "orderSummary": "Order Summary",
+      "product": "Product:",
+      "planet": "Planet:",
+      "total": "Total Amount:",
+      "deliveryInfo": "Delivery Information",
+      "deliveryDesc": "Please fill in your details for delivery",
+      "productName": "Product Name",
+      "fullName": "Full Name *",
+      "mobile": "Mobile Number *",
+      "alternativeMobile": "Alternative Mobile",
+      "address": "Complete Address *",
+      "city": "City *",
+      "state": "State *",
+      "pincode": "PIN Code *",
+      "specialInstructions": "Special Instructions (Optional)",
+      "importantInfo": "Important Information",
+      "freeShipping": "Free shipping across India",
+      "deliveryTime": "Delivery within 5-7 working days",
+      "codAvailable": "COD available (Cash on Delivery)",
+      "certificate": "Certificate of authenticity included",
+      "videoWorship": "Video of worship ceremony will be shared on WhatsApp",
+      "back": "← Back",
+      "proceedToPayment": "💳 Proceed to Payment"
+    },
+    "priceRanges": {
+      "all": "All Prices",
+      "under5000": "Under ₹5,000",
+      "5000to10000": "₹5,000 - ₹10,000",
+      "10000to20000": "₹10,000 - ₹20,000",
+      "above20000": "Above ₹20,000"
+    },
+    "sortOptions": {
+      "popularity": "Most Popular",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "rating": "Highest Rated",
+      "newest": "Newest First"
+    },
+    "labels": {
+      "weight": "Weight",
+      "origin": "Origin",
+      "buyNow": "Buy Now",
+      "outOfStock": "Out of Stock",
+      "premium": "Premium",
+      "luxury": "Luxury",
+      "certified": "Certified",
+      "certifiedQuality": "Certified Quality",
+      "worshipFeatures": "Worship Features:",
+      "loading": "Loading..."
+    }
+  },
+  "yantra": {
+    "hero": {
+      "title": "Sacred Yantra Collection",
+      "subtitle": "Sacred Yantras for Spiritual & Material Benefits",
+      "description": "Ancient geometric patterns that bring divine blessings and positive energy",
+      "features": {
+        "energized": "Properly Energized",
+        "installation": "Expert Installation",
+        "benefits": "Immediate Benefits"
+      }
+    },
+    "search": {
+      "title": "🔍 Find Your Perfect Yantra",
+      "subtitle": "Filter by category, price and deity",
+      "labels": {
+        "search": "Search Yantras",
+        "category": "Category",
+        "priceRange": "Price Range"
+      },
+      "placeholders": {
+        "search": "Search yantra, deity, or benefits...",
+        "category": "Select Category",
+        "priceRange": "Select Price"
+      },
+      "button": "Search Now",
+      "quickFilters": "Quick Filters:",
+      "tags": {
+        "popular": "✨ Most Popular",
+        "energized": "🏆 Energized",
+        "premium": "💎 Premium",
+        "newArrivals": "🔯 New Arrivals"
+      }
+    },
+    "collection": {
+      "title": "Available Yantra Collection",
+      "loading": "Loading yantras...",
+      "count": "{{count}} yantras found",
+      "empty": "No yantras found.",
+      "clearFilters": "Clear Filters",
+      "error": {
+        "title": "Error Loading Yantras",
+        "retry": "Try Again"
+      }
+    },
+    "features": {
+      "title": "Why Choose Our Yantras?",
+      "subtitle": "Authentic and energized yantras",
+      "items": {
+        "energized": {
+          "title": "Energized",
+          "desc": "All yantras are properly energized"
+        },
+        "authentic": {
+          "title": "Authentic",
+          "desc": "Made according to ancient scriptures"
+        },
+        "guidance": {
+          "title": "Expert Guidance",
+          "desc": "Free consultation on selection"
+        }
+      }
+    },
+    "cta": {
+      "title": "Enhance Your Life with Sacred Yantras",
+      "subtitle": "Get authentic and energized yantras for your needs",
+      "explore": "Explore Yantras",
+      "call": "Call: +91 9773380099"
+    },
+    "checkout": {
+      "title": "🛒 Checkout - {{productName}}",
+      "orderSummary": "📋 Order Summary",
+      "product": "Product:",
+      "deity": "Deity:",
+      "totalAmount": "Total Amount:",
+      "deliveryInfo": "📝 Delivery Information",
+      "deliveryDesc": "Please fill in your details for delivery",
+      "productName": "🛍️ Product Name",
+      "fullName": "👤 Full Name *",
+      "mobile": "📱 Mobile Number *",
+      "alternativeMobile": "📞 Alternative Mobile",
+      "address": "🏠 Complete Address *",
+      "city": "🏙️ City *",
+      "state": "🗺️ State *",
+      "pincode": "📮 PIN Code *",
+      "specialInstructions": "📝 Special Instructions (Optional)",
+      "importantInfo": "📌 Important Information",
+      "freeShipping": "Free shipping across India",
+      "deliveryTime": "Delivery within 5-7 working days",
+      "codAvailable": "COD available (Cash on Delivery)",
+      "installationGuidance": "Expert installation guidance included",
+      "allEnergized": "All yantras are properly energized",
+      "back": "← Back",
+      "proceedToPayment": "💳 Proceed to Payment"
+    },
+    "priceRanges": {
+      "all": "All Prices",
+      "under1500": "Under ₹1,500",
+      "1500to2500": "₹1,500 - ₹2,500",
+      "2500to3500": "₹2,500 - ₹3,500",
+      "above3500": "Above ₹3,500"
+    },
+    "labels": {
+      "material": "Material",
+      "size": "Size",
+      "buyNow": "Buy Now",
+      "loading": "Loading..."
+    }
+  },
+  "books": {
+    "hero": {
+      "title": "Sacred Books Collection",
+      "subtitle": "Sacred Books of Astrology & Spirituality",
+      "description": "Authentic knowledge from ancient scriptures and modern experts",
+      "features": {
+        "authentic": "Authentic Content",
+        "experts": "Expert Authors",
+        "languages": "Multiple Languages"
+      }
+    },
+    "search": {
+      "title": "🔍 Find Your Perfect Book",
+      "subtitle": "Filter by category, language and author",
+      "labels": {
+        "search": "Search Books",
+        "category": "Category",
+        "language": "Language"
+      },
+      "placeholders": {
+        "search": "Search books, author, or description...",
+        "category": "Select Category",
+        "language": "Select Language"
+      },
+      "button": "Search Now",
+      "quickFilters": "Quick Filters:",
+      "tags": {
+        "bestsellers": "✨ Bestsellers",
+        "newArrivals": "📚 New Arrivals",
+        "topRated": "🏆 Top Rated",
+        "bestDeals": "💰 Best Deals"
+      }
+    },
+    "collection": {
+      "title": "Available Books Collection",
+      "loading": "Loading books...",
+      "count": "{{count}} books found",
+      "empty": "No books found.",
+      "clearFilters": "Clear Filters",
+      "error": {
+        "title": "Error Loading Books",
+        "retry": "Try Again"
+      }
+    },
+    "features": {
+      "title": "Why Choose Our Books?",
+      "subtitle": "Authentic and sacred knowledge",
+      "items": {
+        "authentic": {
+          "title": "Authentic Content",
+          "desc": "Books written by experts"
+        },
+        "returns": {
+          "title": "Easy Returns",
+          "desc": "30-day return policy"
+        },
+        "delivery": {
+          "title": "Fast Delivery",
+          "desc": "Free shipping on orders above ₹500"
+        }
+      }
+    },
+    "cta": {
+      "title": "Start Your Spiritual Journey Today",
+      "subtitle": "Get authentic knowledge from sacred books",
+      "explore": "Explore Books",
+      "call": "Call: +91 9773380099"
+    },
+    "checkout": {
+      "title": "🛒 Checkout - {{productName}}",
+      "orderSummary": "📋 Order Summary",
+      "product": "Product:",
+      "author": "Author:",
+      "totalAmount": "Total Amount:",
+      "deliveryInfo": "📝 Delivery Information",
+      "deliveryDesc": "Please fill in your details for delivery",
+      "productName": "🛍️ Product Name",
+      "fullName": "👤 Full Name *",
+      "mobile": "📱 Mobile Number *",
+      "alternativeMobile": "📞 Alternative Mobile",
+      "address": "🏠 Complete Address *",
+      "city": "🏙️ City *",
+      "state": "🗺️ State *",
+      "pincode": "📮 PIN Code *",
+      "specialInstructions": "📝 Special Instructions (Optional)",
+      "importantInfo": "📌 Important Information",
+      "freeShipping": "Free shipping across India",
+      "deliveryTime": "Delivery within 5-7 working days",
+      "codAvailable": "COD available (Cash on Delivery)",
+      "returnPolicy": "30-day return policy",
+      "authenticGuarantee": "Authentic content guaranteed",
+      "back": "← Back",
+      "proceedToPayment": "💳 Proceed to Payment"
+    },
+    "labels": {
+      "pages": "Pages",
+      "language": "Language",
+      "buyNow": "Buy Now",
+      "bestseller": "Bestseller",
+      "loading": "Loading..."
+    }
+  },
+  "sadhana": {
+    "hero": {
+      "title": "Sadhana Programs",
+      "subtitle": "Spiritual Sadhana Programs",
+      "description": "Journey of spiritual progress and life transformation",
+      "features": {
+        "dailyPractice": "Daily Practice",
+        "expertGuidance": "Expert Guidance",
+        "lifeTransformation": "Life Transformation"
+      }
+    },
+    "whatIsSadhana": {
+      "title": "What is Sadhana?",
+      "description": "Sadhana means continuous practice. It is a systematic method of spiritual development that leads individuals to higher consciousness through mantra chanting, meditation, and devotion.",
+      "items": {
+        "meditation": {
+          "title": "Meditation",
+          "desc": "Deep meditation for inner peace"
+        },
+        "mantraJaap": {
+          "title": "Mantra Jaap",
+          "desc": "Sacred mantra chanting"
+        },
+        "devotion": {
+          "title": "Devotion",
+          "desc": "Pure devotion and surrender"
+        }
+      }
+    },
+    "search": {
+      "title": "🔍 Find Your Perfect Sadhana",
+      "subtitle": "Filter by category, level and search",
+      "labels": {
+        "search": "Search Sadhanas",
+        "category": "Category",
+        "level": "Level",
+        "sortBy": "Sort By"
+      },
+      "placeholders": {
+        "search": "Search sadhana, deity, or category...",
+        "category": "Select Category",
+        "level": "Select Level",
+        "sortBy": "Sort By"
+      },
+      "options": {
+        "allCategories": "All Categories",
+        "allLevels": "All Levels"
+      },
+      "sortOptions": {
+        "popularity": "Most Popular",
+        "priceLow": "Price: Low to High",
+        "priceHigh": "Price: High to Low",
+        "rating": "Highest Rated",
+        "newest": "Newest First"
+      }
+    },
+    "collection": {
+      "title": "Available Sadhana Programs",
+      "loading": "Loading sadhanas...",
+      "count": "{{count}} sadhanas found",
+      "empty": "No sadhanas found.",
+      "clearFilters": "Clear Filters",
+      "error": {
+        "title": "Failed to Load Sadhanas",
+        "retry": "Try Again"
+      }
+    },
+    "features": {
+      "title": "Why Choose Our Sadhana Programs?",
+      "subtitle": "Authentic spiritual guidance and support",
+      "items": {
+        "expertGuidance": {
+          "title": "Expert Guidance",
+          "desc": "Experienced spiritual teachers"
+        },
+        "onlineSupport": {
+          "title": "Online Support",
+          "desc": "24/7 guidance and support"
+        },
+        "homePractice": {
+          "title": "Home Practice",
+          "desc": "Practice from your home"
+        }
+      }
+    },
+    "labels": {
+      "duration": "Duration",
+      "deity": "Deity",
+      "process": "Process:",
+      "benefits": "Benefits:",
+      "joinProgram": "Join Sadhana Program",
+      "outOfStock": "Out of Stock",
+      "loading": "Loading..."
+    }
+  },
+  "pujas": {
+    "hero": {
+      "title": "Puja Services",
+      "subtitle": "Complete puja service with proper rituals and procedures",
+      "description": "Traditional puja services performed by expert priests for divine blessings",
+      "features": {
+        "authenticRituals": "Authentic Rituals",
+        "expertPandits": "Expert Pandits",
+        "spiritualBenefits": "Spiritual Benefits"
+      }
+    },
+    "search": {
+      "title": "🔍 Find Your Perfect Puja",
+      "subtitle": "Filter by category, location and search",
+      "labels": {
+        "search": "Search Pujas",
+        "category": "Category",
+        "location": "Location",
+        "sortBy": "Sort By"
+      },
+      "placeholders": {
+        "search": "Search puja, deity, or category...",
+        "category": "Select Category",
+        "location": "Select Location",
+        "sortBy": "Sort By"
+      },
+      "options": {
+        "allCategories": "All Categories",
+        "allLocations": "All Locations"
+      },
+      "sortOptions": {
+        "popularity": "Most Popular",
+        "priceLow": "Price: Low to High",
+        "priceHigh": "Price: High to Low",
+        "rating": "Highest Rated",
+        "newest": "Newest First"
+      }
+    },
+    "collection": {
+      "title": "Available Puja Services",
+      "loading": "Loading pujas...",
+      "count": "{{count}} pujas found",
+      "empty": "No pujas found.",
+      "clearFilters": "Clear Filters",
+      "error": {
+        "title": "Failed to Load Pujas",
+        "retry": "Try Again"
+      }
+    },
+    "booking": {
+      "title": "🙏 Book Your Puja Service",
+      "subtitle": "Complete puja service with proper rituals and procedures",
+      "rulesTitle": "⚠️ Rules & Terms",
+      "rules": {
+        "gotra": "Gotra is mandatory for all pujas. If gotra is unknown, \"Kashyap Gotra\" will be considered valid.",
+        "family": "All participants must be from the same family and same gotra.",
+        "sankalp": "Brahmin will chant the names and gotra of all participants during the sankalp.",
+        "video": "Puja video will be sent on WhatsApp within 72 hours after completion.",
+        "prasad": "\"Prabhu Prasad Ashirwad Box\" will be delivered by courier within 10 days. No additional charges."
+      },
+      "regularTitle": "Regular Puja Services",
+      "vipTitle": "VIP Dosha Nivaran Pujas",
+      "forPerson": "For {{count}} Person",
+      "forPersons": "For {{count}} Persons",
+      "features": {
+        "sankalp": "Sankalp by Brahmin",
+        "video": "Puja video in 72 hours",
+        "prasad": "Prabhu Prasad Box",
+        "sankalpNames": "Sankalp with {{count}} names",
+        "prasadPersons": "Prasad box for {{count}} persons"
+      },
+      "prasadBox": {
+        "title": "Prasad Box Contains:",
+        "items": {
+          "rudraksha": "Rudraksha Kavach (4,5,6 Mukhi) - {{count}} Set",
+          "rakshaSutra": "Raksha Sutra - {{count}} pc",
+          "mohiniTilak": "Mohini Tilak - {{count}} pc",
+          "lakshmiYantra": "Lakshmi Yantra - {{count}} pc",
+          "sacredPrasad": "Sacred Prasad - {{count}} packet"
+        }
+      },
+      "vipFeatures": {
+        "ritual": "2.5 hours ritual",
+        "brahmins": "Expert Brahmins",
+        "streaming": "Live YouTube streaming",
+        "vipPrasad": "VIP Prasad Box"
+      }
+    },
+    "vipBenefits": {
+      "title": "🌟 VIP Puja Benefits",
+      "subtitle": "Special personalized rituals - 2.5 hours of divine blessings",
+      "completeTitle": "🌟 Complete VIP Puja Benefits",
+      "items": {
+        "personalRitual": {
+          "title": "Personal Ritual",
+          "desc": "2.5 hours special ritual exclusively for your family"
+        },
+        "gotraSankalp": {
+          "title": "Gotra-based Sankalp",
+          "desc": "Special sankalp with your name and gotra for divine blessings"
+        },
+        "twoBrahmins": {
+          "title": "Two Expert Brahmins",
+          "desc": "Two learned Brahmins performing Vedic chanting and havan"
+        },
+        "rudraksha": {
+          "title": "Mantra-Siddh Rudraksha",
+          "desc": "5,6,7 Mukhi Rudraksha and 108 beads mala"
+        },
+        "abhishek": {
+          "title": "Panchamrit Abhishek",
+          "desc": "Remove negativity and infuse divine energy"
+        },
+        "havan": {
+          "title": "Havan Blessings",
+          "desc": "Destroy troubles, diseases, enemies and obstacles"
+        },
+        "spiritualGrowth": {
+          "title": "Spiritual Growth",
+          "desc": "Wealth, prosperity, happiness, peace and security"
+        },
+        "liveDarshan": {
+          "title": "Live Darshan",
+          "desc": "Watch live puja from home via YouTube link"
+        },
+        "specialPrasad": {
+          "title": "Special Prasad Box",
+          "desc": "Consecrated Rudraksha, Yantra and divine prasad"
+        }
+      },
+      "rulesTitle": "⚠️ VIP Puja Rules",
+      "rules": {
+        "sankalp": "Sankalp will be taken only for one family and one gotra",
+        "gotra": "If gotra is unknown, \"Kashyap Gotra\" will be considered valid",
+        "brahmin": "Brahmin will act as yajman on your behalf and complete the entire puja",
+        "attendance": "If you can attend the puja, it will be even more auspicious and beneficial",
+        "vedic": "Complete Vedic procedures, mantra chanting and havan included",
+        "darshan": "Live darshan facility via YouTube link"
+      },
+      "quote": "\"VIP Puja opens the door to happiness, peace and prosperity for your family for generations.\""
+    },
+    "prasadBox": {
+      "title": "🎁 Prabhu Prasad Ashirwad Box",
+      "subtitle": "All items are provided as blessed prasad and sanctified (consecrated) form",
+      "specialFeatures": "✨ Special Features",
+      "boxContents": "📦 Box Contents",
+      "features": {
+        "blessed": "All items are blessed as prasad, consecrated and chanted with mantras",
+        "purified": "Rudraksha purified with Lord's water abhishek",
+        "sacred": "All materials collected from sacred places",
+        "delivery": "Free delivery within 10 days"
+      },
+      "items": [
+        "4 Mukhi Rudraksha Kavach",
+        "5 Mukhi Rudraksha Kavach",
+        "6 Mukhi Rudraksha Kavach",
+        "Raksha Sutra",
+        "Mohini Tilak",
+        "Lakshmi Yantra",
+        "Sacred Prasad",
+        "Sadhana Catalog"
+      ]
+    },
+    "features": {
+      "title": "Why Choose Our Puja Services?",
+      "subtitle": "Professional and authentic puja services",
+      "items": {
+        "completeRituals": {
+          "title": "Complete Rituals",
+          "desc": "Puja as per scriptures"
+        },
+        "homeService": {
+          "title": "Home Service",
+          "desc": "Puja service at your home"
+        },
+        "onlinePuja": {
+          "title": "Online Puja",
+          "desc": "Join live online puja"
+        }
+      }
+    },
+    "cta": {
+      "title": "Book Your Puja Today",
+      "subtitle": "Get divine blessings and positive energy in your life",
+      "bookNow": "Book Puja Now"
+    },
+    "labels": {
+      "duration": "Duration",
+      "maxParticipants": "Max",
+      "location": "Location",
+      "benefits": "Benefits:",
+      "includes": "Includes:",
+      "bookPuja": "Book Puja",
+      "outOfStock": "Out of Stock",
+      "online": "Online",
+      "homeVisit": "Home Visit",
+      "priest": "Priest",
+      "loading": "Loading..."
+    }
+  },
+  "samanyeKundli": {
+    "hero": {
+      "title": "Samanye Kundli",
+      "subtitle": "सामान्य कुंडली विश्लेषण",
+      "description": "Discover your life's blueprint with our comprehensive general kundli analysis service.",
+      "features": {
+        "planetaryPositions": "Basic Planetary Positions",
+        "houseAnalysis": "House Analysis",
+        "lifePathGuidance": "Life Path Guidance"
+      }
+    },
+    "form": {
+      "title": "Generate Your Kundli",
+      "subtitle": "Enter your birth details to get started",
+      "fields": {
+        "fullName": "Full Name",
+        "dateOfBirth": "Date of Birth",
+        "timeOfBirth": "Time of Birth",
+        "placeOfBirth": "Place of Birth",
+        "gender": "Gender",
+        "mobileNumber": "Mobile Number",
+        "kundli": "Kundli"
+      },
+      "placeholders": {
+        "fullName": "Enter your full name",
+        "placeOfBirth": "City, State, Country",
+        "gender": "Select gender",
+        "mobileNumber": "Enter your mobile number"
+      },
+      "options": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      },
+      "submit": "Submit"
+    },
+    "thankYou": {
+      "title": "Thank You!",
+      "message": "Your Samanye Kundli request has been submitted successfully. We'll get back to you soon!"
+    },
+    "whatYouGet": {
+      "title": "What You'll Get",
+      "description": "Our comprehensive kundli analysis provides insights into your personality, relationships, career, and life path based on Vedic astrology principles."
+    },
+    "features": {
+      "planetaryPositions": {
+        "title": "Basic Planetary Positions",
+        "description": "Understand the positions of planets in your birth chart and their influence on your life."
+      },
+      "houseAnalysis": {
+        "title": "House Analysis",
+        "description": "Detailed analysis of all 12 houses and their impact on different aspects of your life."
+      },
+      "lifePathGuidance": {
+        "title": "Life Path Guidance",
+        "description": "Personalized guidance for your career, relationships, and life decisions based on your kundli."
+      },
+      "relationshipInsights": {
+        "title": "Relationship Insights",
+        "description": "Discover compatibility insights and relationship guidance based on astrological analysis."
+      }
+    },
+    "planetaryInfluences": {
+      "title": "Planetary Influences",
+      "description": "Understanding how different planets influence various aspects of your life."
+    },
+    "houses": {
+      "title": "The 12 Houses",
+      "description": "Each house represents different aspects of life and their significance in your kundli."
+    },
+    "cta": {
+      "title": "Ready to Discover Your Destiny?",
+      "description": "Get your personalized kundli analysis and unlock the secrets of your birth chart.",
+      "generateNow": "Generate Now",
+      "learnMore": "Learn More"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "description": "Have questions about your kundli? Our expert astrologers are here to help.",
+      "callUs": "Call Us",
+      "emailUs": "Email Us",
+      "chatNow": "Chat Now",
+      "liveConsultation": "Live Consultation"
+    }
+  },
+  "vipKundli": {
+    "hero": {
+      "title": "VIP Kundli Analysis",
+      "subtitle": "प्रीमियम कुंडली विश्लेषण",
+      "description": "Experience the most comprehensive and accurate astrological analysis with our premium VIP Kundli service.",
+      "features": {
+        "premiumAnalysis": "Premium Analysis",
+        "aiPoweredInsights": "AI-Powered Insights",
+        "expertConsultation": "Expert Consultation"
+      }
+    },
+    "form": {
+      "title": "Generate Your VIP Kundli",
+      "subtitle": "Enter your birth details for premium analysis",
+      "fields": {
+        "fullName": "Full Name",
+        "dateOfBirth": "Date of Birth",
+        "timeOfBirth": "Time of Birth",
+        "placeOfBirth": "Place of Birth",
+        "gender": "Gender",
+        "mobileNumber": "Mobile Number",
+        "kundli": "Kundli"
+      },
+      "placeholders": {
+        "fullName": "Enter your full name",
+        "placeOfBirth": "City, State, Country",
+        "gender": "Select gender",
+        "mobileNumber": "Enter your mobile number"
+      },
+      "options": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      },
+      "submit": "Submit"
+    },
+    "thankYou": {
+      "title": "Thank You!",
+      "message": "Your VIP Kundli request has been submitted successfully. We'll get back to you soon!"
+    },
+    "features": {
+      "title": "VIP Exclusive Features",
+      "description": "Get access to the most advanced astrological insights and personalized guidance with our premium service.",
+      "items": {
+        "deepAnalysis": {
+          "title": "Deep Analysis",
+          "description": "Comprehensive study of all planetary positions and their influences on your life."
+        },
+        "aiPoweredInsights": {
+          "title": "AI-Powered Insights",
+          "description": "Advanced algorithms provide accurate predictions and personalized recommendations."
+        },
+        "lifePathGuidance": {
+          "title": "Life Path Guidance",
+          "description": "Clear direction for career, relationships, health, and spiritual growth."
+        },
+        "expertConsultation": {
+          "title": "Expert Consultation",
+          "description": "One-on-one sessions with certified astrologers for personalized guidance."
+        }
+      }
+    },
+    "planetaryInfluences": {
+      "title": "Planetary Influences",
+      "description": "Understanding the key planets and their significance in your kundli"
+    },
+    "houses": {
+      "title": "The 12 Houses",
+      "description": "Each house represents different aspects of your life journey"
+    },
+    "cta": {
+      "title": "Ready for VIP Analysis?",
+      "description": "Get your premium kundli analysis and unlock the deepest secrets of your birth chart",
+      "generateNow": "Generate VIP Kundli Now",
+      "bookConsultation": "Book Expert Consultation"
+    },
+    "contact": {
+      "title": "Need Expert Guidance?",
+      "description": "Our experienced astrologers are here to help you understand your kundli better",
+      "callUs": "Call Us",
+      "emailUs": "Email Us",
+      "chatNow": "Chat Now",
+      "liveConsultation": "Live consultation"
+    }
+  },
+  "home": {
+    "hero": {
+      "slide1": {
+        "title": "ॐ गम गणपतये नमो नमः श्री सिद्धि विनायक नमो नमः",
+        "subtitle": "अष्टविनायक नमो नमः गणपति बाप्पा मोरया ।"
+      },
+      "slide2": {
+        "title": "ॐ क्रीं कालिकायै नमः",
+        "subtitle": "जय माँ काली, जय माँ दुर्गा"
+      },
+      "slide3": {
+        "title": "Welcome to Shree Mahavidya Shaktipeeth",
+        "subtitle": "Purchase books"
+      },
+      "slide4": {
+        "title": "Daily Horoscope by Zodiac Signs",
+        "subtitle": "Choose your zodiac sign and get today's detailed horoscope"
+      },
+      "scrollingText": "🕉️ Welcome to Shree Mahavidya Shaktipeeth| Horoscope, Muhurat, Puja Services | 24x7 Expert Consultation Available"
+    },
+    "kundliSection": {
+      "title": "🕉️ Shree Mahavidya Shaktipeeth🕉️",
+      "description": "Get your birth chart analyzed and discover insights about your future, career, health, and all aspects of life through ancient Vedic wisdom",
+      "comprehensiveServices": "🌟 Comprehensive Kundli Services",
+      "serviceDescription1": "Our expert astrologers provide detailed birth chart analysis based on your exact birth time, date, and location. We use ancient Vedic wisdom and modern astrological techniques to give you accurate insights about your life path.",
+      "serviceDescription2": "From daily horoscopes to career guidance, marriage compatibility to health solutions, we cover all aspects of your life through planetary analysis.",
+      "samanyaKundli": {
+        "title": "📊 Samanya Kundli",
+        "description": "Basic birth chart analysis with essential insights about your personality, strengths, and life path.",
+        "button": "Get Samanya Kundli"
+      },
+      "vipKundli": {
+        "title": "👑 VIP Kundli",
+        "description": "Premium comprehensive analysis with detailed predictions, personalized remedies, and ongoing consultation.",
+        "button": "Get VIP Kundli"
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "sanskritPhrase": "May all beings be happy and peaceful",
+      "description1": "At Jyotish Lok, we believe that every life is guided by the stars, planets, and cosmic energies. Our mission is to help you understand these celestial influences through accurate Kundli analysis and guide you with effective remedies for harmony, prosperity, and peace.",
+      "description2": "Our expert astrologers provide deep insights into your career, relationships, health, and finances. We offer personalized solutions including mantra chanting, gemstone recommendations, Vastu guidance, and spiritual rituals to overcome challenges and attract positive energy.",
+      "panchangButton": "Check Today's Panchang 📅",
+      "panchangOverlay": "Click for Panchang"
+    },
+    "whyChooseUs": {
+      "subtitle": "WHY?",
+      "title": "WHY CHOOSE Jyotish Lok",
+      "greatExperience": {
+        "title": "Great Experience",
+        "description": "25+ years of experience with thousands of satisfied clients providing reliable astrological services."
+      },
+      "dataPrivacy": {
+        "title": "Data Privacy",
+        "description": "Complete security and confidentiality of your personal information is our top priority."
+      },
+      "customerSupport": {
+        "title": "Best Customer Support",
+        "description": "24/7 available expert support with personalized guidance."
+      }
+    },
+    "appDownload": {
+      "title": "DOWNLOAD APP",
+      "appFeatures": "App Features:",
+      "features": {
+        "healthReports": "Health reports based on your child's exact birth details.",
+        "nutritionSuggestions": "Customized nutrition and care suggestions.",
+        "growthGuidance": "Tips and guidance for your child's growth and development.",
+        "dailyReminders": "Daily reminders and notifications so you never miss important care steps."
+      },
+      "getItOnGooglePlay": "Get it on Google Play",
+      "mobileAppInterface": "Mobile app interface"
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "subtitle": "Discover how Jyotish Lok has helped thousands of people find clarity and transform their lives",
+      "cta": {
+        "question": "Ready to discover what the stars have in store for you?",
+        "button": "Get Your Free Consultation"
+      }
+    },
+    "rudraksha": {
+      "hero": {
+        "title": "Rudraksha Collection",
+        "subtitle": "Sacred Rudraksha Collection",
+        "description": "Lord Shiva's divine blessing - Authentic, certified and blessed rudraksha beads with multiple worship options",
+        "features": {
+          "certified": "IGL Certified",
+          "blessed": "Blessed by Brahmins",
+          "video": "Video Worship Available"
+        }
+      },
+      "about": {
+        "title": "Glory of Rudraksha",
+        "description": "Rudraksha is considered dear to Lord Shiva. It not only provides spiritual power but is also extremely beneficial for physical and mental health.",
+        "benefits": {
+          "spiritual": {
+            "title": "Spiritual Benefits",
+            "description": "Concentration in meditation, spiritual power, and peace of mind"
+          },
+          "health": {
+            "title": "Health Benefits",
+            "description": "Blood pressure control, heart health, and stress reduction"
+          },
+          "protection": {
+            "title": "Protection",
+            "description": "Protection from negative energy and positive environment"
+          }
+        }
+      },
+      "collection": {
+        "title": "Available Rudraksha",
+        "loading": "Loading rudrakshas...",
+        "count": "{{count}} rudraksha found",
+        "empty": "No rudraksha found.",
+        "clearFilters": "Clear Filters",
+        "error": {
+          "title": "Failed to Load Rudrakshas",
+          "retry": "Try Again"
+        }
+      },
+      "worshipOptions": {
+        "title": "🌺 Worship & Blessing Options 🌺",
+        "subtitle": "Choose the level of spiritual preparation",
+        "selectOption": "Select Option",
+        "premium": "✨ Premium"
+      },
+      "sizeOptions": {
+        "title": "📏 Size Options Available",
+        "subtitle": "All sizes come with complete worship and IGL certification",
+        "selectSize": "Select Size"
+      },
+      "buyNow": "Buy Now",
+      "outOfStock": "Out of Stock",
+      "consultation": {
+        "title": "Choose the Right Rudraksha for You",
+        "subtitle": "Get advice on the most suitable rudraksha according to your birth horoscope",
+        "consultAstrologer": "Consult Astrologer",
+        "call": "Call: +91 9773380099"
+      },
+      "checkout": {
+        "title": "🛒 Checkout - {{productName}}",
+        "orderSummary": "📋 Order Summary",
+        "product": "Product:",
+        "deity": "Deity:",
+        "planet": "Planet:",
+        "worshipOption": "Worship Option:",
+        "size": "Size:",
+        "totalAmount": "Total Amount:",
+        "deliveryInfo": "📝 Delivery Information",
+        "deliveryDesc": "Please fill in your details for delivery",
+        "productName": "🛍️ Product Name",
+        "fullName": "👤 Full Name *",
+        "mobile": "📱 Mobile Number *",
+        "alternativeMobile": "📞 Alternative Mobile",
+        "address": "🏠 Complete Address *",
+        "city": "🏙️ City *",
+        "state": "🗺️ State *",
+        "pincode": "📮 PIN Code *",
+        "specialInstructions": "📝 Special Instructions (Optional)",
+        "importantInfo": "📌 Important Information",
+        "freeShipping": "Free shipping across India",
+        "deliveryTime": "Delivery within 5-7 working days",
+        "codAvailable": "COD available (Cash on Delivery)",
+        "certificate": "Certificate of authenticity included",
+        "videoWorship": "Video of worship ceremony will be shared on WhatsApp",
+        "back": "← Back",
+        "proceedToPayment": "💳 Proceed to Payment"
+      },
+      "completeCollection": {
+        "title": "Complete Rudraksha Collection",
+        "subtitle": "1 Mukhi to 14 Mukhi - Detailed Information",
+        "mukhi1": {
+          "title": "1 Mukhi Rudraksha - Complete Information",
+          "primaryDetails": {
+            "title": "🕉️ Primary Details",
+            "deity": "Deity: Lord Shiva - Supreme Brahman",
+            "mukhi": "Mukhi: Only one natural face",
+            "rarity": "Most rare and sacred"
+          },
+          "spiritualBenefits": {
+            "title": "✨ Spiritual Benefits",
+            "selfKnowledge": "Self-knowledge and spiritual awakening",
+            "egoRemoval": "Removes ego and promotes meditation",
+            "mentalBalance": "Mental balance and concentration"
+          },
+          "healthBenefits": {
+            "title": "🏥 Health Benefits",
+            "stressRelief": "Relief from stress, anxiety, depression",
+            "heartHealth": "Blood pressure and heart health",
+            "wellness": "Good sleep and overall wellness"
+          },
+          "businessLeadership": {
+            "title": "💼 Business & Leadership",
+            "obstacleRemoval": "Removes business obstacles",
+            "decisionMaking": "Enhances decision-making ability",
+            "leadership": "Promotes leadership qualities"
+          },
+          "planetaryEffects": {
+            "title": "🌟 Planetary Effects",
+            "sunConnection": "Connected to Sun planet",
+            "chakraActivation": "Activates crown and third eye chakras",
+            "awareness": "Increases awareness and insight"
+          }
+        },
+        "mukhi2": {
+          "title": "2 Mukhi Rudraksha - Complete Details",
+          "formSymbol": {
+            "title": "💑 Form and Symbol",
+            "shivaParvati": "Symbol of Lord Shiva and Mother Parvati",
+            "unity": "Symbol of unity, love and balance",
+            "ardhanarishwar": "Represents Ardhanarishwar form"
+          },
+          "religiousImportance": {
+            "title": "🙏 Religious Importance",
+            "marriageHarmony": "Happiness and harmony in married life",
+            "blessing": "Blessing of Lord Ardhanarishwar",
+            "disputeRemoval": "Removes marriage delay and family disputes"
+          },
+          "planetaryEffects": {
+            "title": "🌙 Planetary Effects",
+            "moonControl": "Mainly controls Moon planet",
+            "chandraDosha": "Beneficial in Chandra dosha",
+            "mentalStability": "Mental instability relief"
+          }
+        },
+        "mukhi3": {
+          "title": "3 Mukhi Rudraksha - Agni Dev Form",
+          "formSymbol": {
+            "title": "🕉️ Form and Symbol",
+            "agniDev": "Form of Lord Agni Dev",
+            "sinDestroyer": "Sin destroyer and energy provider",
+            "newBeginnings": "Gives power for new beginnings"
+          },
+          "planetaryEffects": {
+            "title": "🪐 Planetary Effects",
+            "marsControl": "Controls Mars planet",
+            "mangalDosha": "Removes Mangal dosha",
+            "diseaseRelief": "Beneficial in anger and blood diseases"
+          },
+          "businessBenefits": {
+            "title": "💼 Business Benefits",
+            "newBusiness": "Auspicious for starting new business",
+            "successConversion": "Converts failures to success",
+            "promotion": "Gives promotion and self-confidence"
+          }
+        },
+        "mukhi4": {
+          "title": "4 Mukhi Rudraksha - Lord Brahma Symbol",
+          "knowledgeWisdom": {
+            "title": "🧠 Knowledge and Wisdom",
+            "brahmaSymbol": "Symbol of Lord Brahma",
+            "knowledgeGiver": "Giver of knowledge and wisdom",
+            "sweetSpeech": "Makes speech sweet"
+          },
+          "mercuryEffects": {
+            "title": "🌟 Mercury Planet Effects",
+            "mercuryFactor": "Mercury planet factor",
+            "speechDefects": "Removes speech defects",
+            "educationObstacles": "Removes educational obstacles"
+          },
+          "suitableFor": {
+            "title": "🎯 Suitable for",
+            "students": "Students, teachers, researchers",
+            "professionals": "Speakers, lawyers, businessmen",
+            "memoryPower": "For increasing memory power"
+          }
+        },
+        "mukhi5": {
+          "title": "5 Mukhi Rudraksha - Kalagni Rudra Form",
+          "siddhiProvider": {
+            "title": "☮️ All Siddhi Provider",
+            "mostCommon": "Most common and available",
+            "sinDestroyer": "Sin destroyer and moksha provider",
+            "peaceBalance": "Brings peace and balance"
+          },
+          "jupiterEffects": {
+            "title": "🪐 Jupiter Effects",
+            "jupiterFactor": "Jupiter planet factor",
+            "knowledgeIncrease": "Increases knowledge and decision making",
+            "spiritualClarity": "Removes spiritual confusion"
+          },
+          "healthBenefits": {
+            "title": "❤️ Health Benefits",
+            "bloodPressure": "Beneficial in blood pressure and heart disease",
+            "diabetes": "Reduces diabetes and stress",
+            "meditation": "Excellent for meditation and yoga"
+          }
+        },
+        "mukhi6": {
+          "title": "6 Mukhi Rudraksha - Lord Kartikeya",
+          "courageAttraction": {
+            "title": "💫 Courage and Attraction",
+            "kartikeyaSymbol": "Symbol of Lord Kartikeya",
+            "courageStrength": "Gives courage, strength and attraction",
+            "sweetSpeech": "Provides sweetness in speech"
+          },
+          "venusEffects": {
+            "title": "💎 Venus Planet Effects",
+            "venusRelated": "Related to Venus planet",
+            "marriageDelay": "Removes marriage delay",
+            "loveIncrease": "Increases attraction and love"
+          },
+          "forArtists": {
+            "title": "🎭 For Artists",
+            "professionals": "Auspicious for singers, actors, lawyers",
+            "businessAttraction": "Gives attraction power in business",
+            "popularity": "Brings popularity and respect"
+          }
+        },
+        "mukhi7": {
+          "title": "7 Mukhi Rudraksha - Mahalakshmi Form",
+          "wealthProsperity": {
+            "title": "💎 Wealth and Prosperity",
+            "mahalakshmiSymbol": "Symbol of Mother Mahalakshmi",
+            "povertyRemoval": "Removes poverty and financial crisis",
+            "saptarishiBlessing": "Blessing of Saptarishis"
+          },
+          "saturnPeace": {
+            "title": "🪐 Saturn Planet Peace",
+            "saturnRelated": "Related to Saturn planet",
+            "debtRemoval": "Removes debt and litigation",
+            "sadeSatiRelief": "Reduces Sade Sati troubles"
+          },
+          "businessSuccess": {
+            "title": "🏪 Business Success",
+            "businessStability": "Brings stability in business",
+            "continuousProfit": "Provides continuous profit",
+            "financialFreedom": "Freedom from financial crisis"
+          }
+        },
+        "mukhi8": {
+          "title": "8 Mukhi Rudraksha - Vighnaharta Ganesh",
+          "obstacleRemoval": {
+            "title": "🛣️ Obstacle Removal",
+            "ganeshSymbol": "Symbol of Lord Ganesh",
+            "allObstacles": "Removes all obstacles and barriers",
+            "newBeginnings": "Gives success in new beginnings"
+          },
+          "rahuDoshaRemoval": {
+            "title": "🌑 Rahu Dosha Removal",
+            "rahuMaster": "Master of Rahu planet",
+            "kalsarpDosha": "Calms Kalsarp dosha",
+            "mentalStress": "Removes confusion and mental stress"
+          },
+          "forStartups": {
+            "title": "🏢 For Startups",
+            "newPlans": "Success in new plans",
+            "failureRelief": "Auspicious for those who fail repeatedly",
+            "leadership": "Increases leadership ability"
+          }
+        },
+        "mukhi9": {
+          "title": "9 Mukhi Rudraksha - Navdurga Power",
+          "strengthCourage": {
+            "title": "💪 Strength & Courage",
+            "navdurgaSymbol": "Symbol of Nine Durga forms",
+            "immenseStrength": "Gives immense strength and courage",
+            "negativeProtection": "Protection from negative energies"
+          },
+          "diseaseRelief": {
+            "title": "🏥 Disease Relief",
+            "marsControl": "Mars planet control",
+            "chronicDiseases": "Relief from chronic diseases",
+            "mentalInstability": "Removes fear and mental instability"
+          },
+          "protectionVictory": {
+            "title": "🛡️ Protection & Victory",
+            "enemyVictory": "Victory over enemies",
+            "dangerProtection": "Protection in dangerous situations",
+            "fearlessness": "Enhances fearlessness and confidence"
+          }
+        },
+        "mukhi10": {
+          "title": "10 Mukhi Rudraksha - Lord Vishnu Protection",
+          "divineProtection": {
+            "title": "🛡️ Divine Protection",
+            "vishnuForm": "Lord Vishnu's divine form",
+            "tenDirections": "Protection from all ten directions",
+            "negativeShield": "Shields from negative energies"
+          },
+          "blackMagicRelief": {
+            "title": "🔮 Black Magic Relief",
+            "blackMagicRemoval": "Removes black magic effects",
+            "evilEyeProtection": "Protection from evil eye",
+            "fearElimination": "Eliminates fear and anxiety"
+          },
+          "courageFearlessness": {
+            "title": "💪 Courage & Fearlessness",
+            "immenseCourage": "Provides immense courage",
+            "allFearsRemoval": "Removes all types of fears",
+            "mentalStability": "Enhances mental stability"
+          }
+        },
+        "mukhi11": {
+          "title": "11 Mukhi Rudraksha - Ekadash Rudra & Hanuman",
+          "leadershipVictory": {
+            "title": "👑 Leadership & Victory",
+            "elevenRudra": "Eleven Rudra forms combined",
+            "leadershipQualities": "Enhances leadership qualities",
+            "allEndeavors": "Ensures victory in all endeavors"
+          },
+          "hanumanBlessing": {
+            "title": "🐒 Hanuman's Blessing",
+            "hanumanSpecial": "Hanuman Ji's special blessing",
+            "courageFear": "Removes fear and brings courage",
+            "politicsSuccess": "Success in politics and administration"
+          },
+          "spiritualProgress": {
+            "title": "🧘 Spiritual Progress",
+            "spiritualGrowth": "Accelerates spiritual growth",
+            "longevityHealth": "Provides longevity and health",
+            "legalMatters": "Ideal for court cases and legal matters"
+          }
+        },
+        "mukhi12": {
+          "title": "12 Mukhi Rudraksha - Surya Dev Brilliance",
+          "energyBrilliance": {
+            "title": "⚡ Energy & Brilliance",
+            "sunEnergy": "Sun deity's divine energy",
+            "personalRadiance": "Enhances personal radiance",
+            "vitalityStrength": "Provides vitality and strength"
+          },
+          "administrativeSuccess": {
+            "title": "🏛️ Administrative Success",
+            "governmentJobs": "Success in government jobs",
+            "administrationLeadership": "Leadership in administration",
+            "authorityRespect": "Authority and respect in society"
+          },
+          "victoryOverEnemies": {
+            "title": "⚔️ Victory Over Enemies",
+            "enemyDefeat": "Defeats all enemies",
+            "conspiracyProtection": "Protection from conspiracies",
+            "confidenceCourage": "Enhances confidence and courage"
+          }
+        },
+        "mukhi13": {
+          "title": "13 Mukhi Rudraksha - Kamdev & Shiva Union",
+          "attractionPower": {
+            "title": "✨ Attraction Power",
+            "kamdevShiva": "Combined power of Kamdev and Shiva",
+            "personalMagnetism": "Enhances personal magnetism",
+            "successProsperity": "Attracts success and prosperity"
+          },
+          "beautyProsperity": {
+            "title": "🌹 Beauty & Prosperity",
+            "physicalBeauty": "Enhances physical beauty",
+            "materialProsperity": "Brings material prosperity",
+            "artsSuccess": "Success in arts and creativity"
+          },
+          "materialSuccess": {
+            "title": "🎭 Material Success",
+            "businessPolitics": "Success in business and politics",
+            "mediaFilm": "Beneficial for media and film industry",
+            "publicRelations": "Enhances public relations skills"
+          }
+        },
+        "mukhi14": {
+          "title": "14 Mukhi Rudraksha - Mahadev's Third Eye",
+          "divineVision": {
+            "title": "🔮 Divine Vision",
+            "thirdEyePower": "Mahadev's third eye power",
+            "intuitionForesight": "Enhances intuition and foresight",
+            "divineKnowledge": "Provides divine knowledge and wisdom"
+          },
+          "royalYogaLeadership": {
+            "title": "👑 Royal Yoga & Leadership",
+            "rajaYoga": "Creates Raja Yoga in horoscope",
+            "exceptionalLeadership": "Exceptional leadership qualities",
+            "highPositions": "Success in politics and high positions"
+          },
+          "devmaniStatus": {
+            "title": "💎 Devmani Status",
+            "devmaniScriptures": "Called \"Devmani\" in scriptures",
+            "extremelyRare": "Extremely rare and powerful",
+            "spiritualMaterial": "Provides spiritual and material success"
+          },
+          "specialFeatures": {
+            "title": "🌟 Special Features of 14 Mukhi",
+            "sevenBrahmins": "Seven Brahmins perform grand ritual",
+            "mahamrityunjaya": "Mahamrityunjaya mantra recitation",
+            "rudrashtadhyayi": "Rudrashtadhyayi sacred verses",
+            "highestSignificance": "Highest spiritual significance"
+          }
+        }
+      }
+    }
+  }
+}
