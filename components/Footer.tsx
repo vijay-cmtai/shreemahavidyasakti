@@ -14,10 +14,8 @@ export default function Footer() {
     { name: "साधना", href: "/", englishName: "Sadhana Programs" },
     { name: "यंत्र", href: "/", englishName: "Yantras" },
   ];
-
   return (
     <footer className="bg-black text-white relative overflow-hidden">
-      {/* Subtle Background Pattern */}
       <div className="absolute inset-0 opacity-3">
         <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC4wNSI+PGNpcmNsZSBjeD0iMzAiIGN5PSIzMCIgcj0iMSIvPjwvZz48L2c+PC9zdmc+')]"></div>
       </div>
@@ -29,16 +27,14 @@ export default function Footer() {
             <div className="flex items-center mb-8">
               <div className="relative">
                 <img
-                  src="/images/logo.png"
-                  alt="Jyotish Lok"
+                  src="https://www.shreemahavidyashaktipeethwebinar.com/_next/image?url=%2Fassets%2Fshree-maaha.png&w=256&q=75"
+                  alt="Lok"
                   className="w-16 h-16 mr-4 drop-shadow-lg"
                 />
                 <div className="absolute inset-0 bg-gradient-to-r from-[#EFFD07] to-[#F37D00] rounded-full opacity-10 blur-xl"></div>
               </div>
               <div>
-                <h3 className="text-3xl font-bold text-orange-500">
-                  Jyotish Lok
-                </h3>
+                <h3 className="text-3xl font-bold text-orange-500">Lok</h3>
                 <p className="text-sm text-gray-400 mt-1">
                   {t(
                     "footer.divineAstrologicalGuidance",
@@ -88,8 +84,6 @@ export default function Footer() {
               </a>
             </div>
           </div>
-
-          {/* Quick Links */}
           <div>
             <h4 className="text-xl font-bold mb-8 text-orange-500">
               {t("footer.quickLinks", "Quick Links")}
@@ -106,7 +100,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/about"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -115,7 +109,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/daily-horoscope"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -124,7 +118,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/vip-kundli"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -133,7 +127,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/samanye-kundli"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -142,7 +136,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/contact"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -173,8 +167,6 @@ export default function Footer() {
               ))}
             </ul>
           </div>
-
-          {/* Contact Info - New Section */}
           <div>
             <h4 className="text-xl font-bold mb-8 text-orange-500">
               {t("footer.contactInfo", "Contact Info")}
@@ -190,7 +182,7 @@ export default function Footer() {
                     {t("footer.phone", "Phone")}
                   </p>
                   <p className="text-orange-500 font-semibold">
-                    +91 9773380099
+                    +91 9700380000
                   </p>
                 </div>
               </div>
@@ -204,9 +196,7 @@ export default function Footer() {
                   <p className="text-sm text-gray-400">
                     {t("footer.email", "Email")}
                   </p>
-                  <p className="text-orange-500 font-semibold">
-                    info@jyotidarshan.in
-                  </p>
+                  <p className="text-orange-500 font-semibold">info@xyz.in</p>
                 </div>
               </div>
 
@@ -219,20 +209,16 @@ export default function Footer() {
                   <p className="text-sm text-gray-400">
                     {t("footer.website", "Website")}
                   </p>
-                  <p className="text-orange-500 font-semibold">
-                    jyotidarshan.com
-                  </p>
+                  <p className="text-orange-500 font-semibold">xyz.com</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
-
-        {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-16 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm">
-              © 2024 Jyotish Lok. {t("footer.allRightsReserved")} |
+              xyz {t("footer.allRightsReserved")} |
               <a
                 href="/terms-of-use"
                 className="text-orange-500 hover:text-white transition-colors ml-2"

@@ -113,7 +113,7 @@ export default function Dashboard() {
     <div className="p-6">
       <div className="flex justify-between items-center mb-6">
         <h1 className="text-3xl font-bold text-gray-900">
-          Jyotish Lok Dashboard
+          Lok Dashboard
         </h1>
         <button
           onClick={() => window.location.reload()}

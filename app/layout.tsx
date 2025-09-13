@@ -13,7 +13,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Jyotish Lok - Astrology Services",
+  title: "Astrology Services",
   description: "Professional astrology services including Kundli, horoscope matching, and spiritual guidance",
   generator: "v0.app",
 }

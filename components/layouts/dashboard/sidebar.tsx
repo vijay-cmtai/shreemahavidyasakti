@@ -151,7 +151,7 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
               </div>
             </div>
             <span className="ml-3 text-lg font-semibold text-gray-900">
-              Jyotish Lok
+              Lok
             </span>
           </div>
           

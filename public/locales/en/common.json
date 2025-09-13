@@ -65,9 +65,9 @@
     "experience": "25+ Years Experience",
     "expertAstrologers": "Expert Astrologers",
     "authenticGuidance": "Authentic Guidance",
-    "welcomeTitle": "Welcome to Jyotish Lok",
+    "welcomeTitle": "Welcome to ",
     "ourBelief": "Our Belief",
-    "ourBeliefText": "At Jyotish Lok, we believe that every person's life is influenced by planets, stars, and cosmic energies. That's why we provide deep and multi-dimensional analysis of your Kundli.",
+    "ourBeliefText": "At we believe that every person's life is influenced by planets, stars, and cosmic energies. That's why we provide deep and multi-dimensional analysis of your Kundli.",
     "ourExpertTeam": "Our Expert Team",
     "ourExpertTeamText": "Our team consists of 10 experienced astrologers, each specializing in different disciplines:",
     "expertAcharyas": "Expert Acharyas",
@@ -101,7 +101,7 @@
     "readyToTransformYourLife": "Ready to Transform Your Life?",
     "readyToTransformSubtitle": "Get personalized guidance from Guruji and discover your true potential",
     "bookConsultation": "Book Consultation",
-    "callNow": "Call Now: +91 9773380099",
+    "callNow": "Call Now: +91 9700380000",
     "happyClients": "Happy Clients",
     "yearsExperience": "Years Experience",
     "awardsWon": "Awards Won",
@@ -219,7 +219,7 @@
     "choosePreferredWay": "Choose your preferred way to connect with us",
     "phoneConsultation": "Phone Consultation",
     "phoneDescription": "Direct consultation with our experts",
-    "phoneValue": "+91 9773380099",
+    "phoneValue": "+91 9700380000",
     "phoneAction": "Call Now",
     "phoneAvailable": "24/7 Available",
     "videoConsultation": "Video Consultation",
@@ -229,7 +229,7 @@
     "videoAvailable": "By Appointment",
     "emailSupport": "Email Support",
     "emailDescription": "Detailed inquiries and support",
-    "emailValue": "info@jyotidarshan.com",
+    "emailValue": "info@xyz.com",
     "emailAction": "Email Us",
     "emailAvailable": "24-48 hrs response",
     "sendUsMessage": "Send Us a Message",
@@ -246,12 +246,12 @@
     "quickContact": "Quick Contact",
     "emergencySupport": "Emergency Support",
     "emergencyDescription": "For urgent spiritual guidance",
-    "emergencyValue": "+91 9773380099",
+    "emergencyValue": "+91 9700380000",
     "emergencyAction": "Call Now",
     "emergencyAvailable": "24/7 Available",
     "whatsappSupport": "WhatsApp Support",
     "whatsappDescription": "Quick queries and support",
-    "whatsappValue": "+91 9773380099",
+    "whatsappValue": "+91 9700380000",
     "whatsappAction": "Chat Now",
     "whatsappAvailable": "Instant Response",
     "socialMedia": "Follow Us",
@@ -878,7 +878,7 @@
       "title": "Enhance Your Life with Gemstones",
       "subtitle": "Get authentic gemstones for planetary benefits",
       "consult": "Consult Astrologer",
-      "call": "Call: +91 9773380099"
+      "call": "Call: +91 9700380000"
     },
     "checkout": {
       "title": "Checkout",
@@ -999,7 +999,7 @@
       "title": "Enhance Your Life with Sacred Yantras",
       "subtitle": "Get authentic and energized yantras for your needs",
       "explore": "Explore Yantras",
-      "call": "Call: +91 9773380099"
+      "call": "Call: +91 9700380000"
     },
     "checkout": {
       "title": "🛒 Checkout - {{productName}}",
@@ -1107,7 +1107,7 @@
       "title": "Start Your Spiritual Journey Today",
       "subtitle": "Get authentic knowledge from sacred books",
       "explore": "Explore Books",
-      "call": "Call: +91 9773380099"
+      "call": "Call: +91 9700380000"
     },
     "checkout": {
       "title": "🛒 Checkout - {{productName}}",
@@ -1746,7 +1746,7 @@
         "title": "Choose the Right Rudraksha for You",
         "subtitle": "Get advice on the most suitable rudraksha according to your birth horoscope",
         "consultAstrologer": "Consult Astrologer",
-        "call": "Call: +91 9773380099"
+        "call": "Call: +91 9700380000"
       },
       "checkout": {
         "title": "🛒 Checkout - {{productName}}",

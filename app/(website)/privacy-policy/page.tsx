@@ -176,10 +176,10 @@ export default function PrivacyPolicy() {
             </p>
             <div className="mt-4 p-4 bg-gray-50 rounded-lg">
               <p className="text-gray-700">
-                <strong>{t('privacy.sections.contactUs.email')}:</strong> info@jyotidarshan.in<br />
-                <strong>{t('privacy.sections.contactUs.phone')}:</strong> +91 9773380099<br />
-                <strong>{t('privacy.sections.contactUs.website')}:</strong> jyotidarshan.com<br />
-                <strong>{t('privacy.sections.contactUs.address')}:</strong> Jyotish Lok, India
+                <strong>{t('privacy.sections.contactUs.email')}:</strong> info@xyz.com<br />
+                <strong>{t('privacy.sections.contactUs.phone')}:</strong> +91 9773380000<br />
+                <strong>{t('privacy.sections.contactUs.website')}:</strong> <br />
+                <strong>{t('privacy.sections.contactUs.address')}:</strong>Lok, India
               </p>
             </div>
           </section>

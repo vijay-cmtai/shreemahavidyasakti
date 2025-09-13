@@ -206,7 +206,7 @@ export default function Login() {
         {/* Footer */}
         <div className="text-center mt-6">
           <p className="text-sm text-gray-500">
-            © 2025 Jyotish Lok. All rights reserved.
+            © 2025 . All rights reserved.
           </p>
         </div>
       </motion.div>

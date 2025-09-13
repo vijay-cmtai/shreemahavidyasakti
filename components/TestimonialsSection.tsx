@@ -12,7 +12,7 @@ const testimonials = [
     zodiac: "Leo",
     rating: 3,
     image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
-    text: "Jyotish Lok helped me make crucial career decisions.",
+    text: "Helped me make crucial career decisions.",
   },
   {
     id: 2,
@@ -80,7 +80,7 @@ export default function TestimonialsSection() {
             {t('home.testimonials.title', 'What Our Clients Say')}
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            {t('home.testimonials.subtitle', 'Discover how Jyotish Lok has helped thousands of people find clarity and transform their lives')}
+            {t('home.testimonials.subtitle', 'Discover how  has helped thousands of people find clarity and transform their lives')}
           </p>
         </div>
 

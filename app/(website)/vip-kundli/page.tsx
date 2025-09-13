@@ -537,14 +537,14 @@ export default function VIPKundliPage() {
                   <Phone className="w-6 h-6 text-orange-600" />
                 </div>
                 <h3 className="font-semibold text-gray-900">{t('vipKundli.contact.callUs', 'Call Us')}</h3>
-                <p className="text-gray-600">+91 9773380099</p>
+                <p className="text-gray-600">+91 9773380000</p>
               </div>
               <div className="flex flex-col items-center gap-3">
                 <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center">
                   <Mail className="w-6 h-6 text-red-600" />
                 </div>
                 <h3 className="font-semibold text-gray-900">{t('vipKundli.contact.emailUs', 'Email Us')}</h3>
-                <p className="text-gray-600">info@jyotidarshan.com</p>
+                <p className="text-gray-600">info@xyz.com</p>
               </div>
               <div className="flex flex-col items-center gap-3">
                 <div className="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center">

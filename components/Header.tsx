@@ -50,10 +50,10 @@ export default function Header() {
       <div className="bg-gray-50 py-2 px-4 text-xs sm:text-sm text-gray-600">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 sm:gap-0">
           <span className="text-center sm:text-left">
-            {t("website.talkToAstrologers")} : +91 9773380099
+            {t("website.talkToAstrologers")} : +91 9700380000
           </span>
           <div className="flex items-center justify-center sm:justify-end gap-2 sm:gap-4">
-            <span>jyotidarshan.com</span>
+            <span>xyz.com</span>
             <span>|</span>
             <span>{t("website.followUs")}</span>
             <div className="flex gap-2">
@@ -95,9 +95,9 @@ export default function Header() {
           <div className="flex items-center">
             <Link href="/" className="hover:opacity-80 transition-opacity">
               <img
-                src="/images/logo2.png"
-                alt="Jyotish Lok Logo"
-                className="w-15 h-15 sm:w-22 sm:h-26 object-contain"
+                src="https://www.shreemahavidyashaktipeethwebinar.com/_next/image?url=%2Fassets%2Fshree-maaha.png&w=256&q=75"
+                alt="Logo"
+                className="w-15 h-16 sm:w-22 sm:h-26 object-contain"
               />
             </Link>
           </div>
