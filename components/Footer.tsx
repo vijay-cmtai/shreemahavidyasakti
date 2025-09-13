@@ -106,7 +106,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/about"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -115,7 +115,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/daily-horoscope"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -124,7 +124,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/vip-kundli"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -133,7 +133,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/samanye-kundli"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
@@ -142,7 +142,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/contact"
+                  href="/"
                   className="text-gray-300 hover:text-orange-500 transition-all duration-300 flex items-center group"
                 >
                   <span className="w-1.5 h-1.5 bg-orange-500 rounded-full mr-3 group-hover:scale-150 transition-transform"></span>
