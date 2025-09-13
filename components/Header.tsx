@@ -95,9 +95,9 @@ export default function Header() {
           <div className="flex items-center">
             <Link href="/" className="hover:opacity-80 transition-opacity">
               <img
-                src="/images/logo2.png"
+                src="https://www.shreemahavidyashaktipeethwebinar.com/_next/image?url=%2Fassets%2Fshree-maaha.png&w=256&q=75"
                 alt="Jyotish Lok Logo"
-                className="w-15 h-15 sm:w-22 sm:h-26 object-contain"
+                className="w-15 h-16 sm:w-22 sm:h-26 object-contain"
               />
             </Link>
           </div>
